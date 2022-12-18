@@ -319,7 +319,7 @@ footer{
 .table-row .status, .table-row .subjects, .table-row .replies, .table-row .last-reply{
     padding: 5px;
     margin: 2px;
-    background-color: #131415;
+    background-color: #02177f;
 }
 
 .table-row .status{
@@ -408,7 +408,7 @@ footer{
 
 .body{
     display: flex;
-    background-color: #131415;
+    background-color: #02177f;
     padding: 10px;
     margin-top: 5px;
 }
